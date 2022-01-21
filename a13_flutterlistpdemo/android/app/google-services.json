@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "623631250674",
+    "project_id": "listepresencel3",
+    "storage_bucket": "sn.edu.ugb.l3infolistepresence2022"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623631250674:android:67bccbfc8b306b5a434c6b",
+        "android_client_info": {
+          "package_name": "sn.edu.ugb.l3infolistepresence2022"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623631250674-ord5n8a73kcr97alejr7df7n54hpp6uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbtZwOlBzC4uJm0xZXzh-0mD7YaquRjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623631250674-ord5n8a73kcr97alejr7df7n54hpp6uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623631250674:android:6bbc0864c4555393434c6b",
+        "android_client_info": {
+          "package_name": "sn.edu.ugb.l3infotestlistepresence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623631250674-ord5n8a73kcr97alejr7df7n54hpp6uo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNbtZwOlBzC4uJm0xZXzh-0mD7YaquRjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623631250674-ord5n8a73kcr97alejr7df7n54hpp6uo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
